@@ -26,6 +26,12 @@ DESCRIPTION:
 
 * chart.js is a powerful third-party JavaScript library that enables the dynamic creation of rich, interactive charts. dashboard.js leverages chart.js to generate compelling visual reports, such as a bar chart illustrating time spent on individual websites and a pie chart providing an overall breakdown of productive, unproductive, and neutral time. These visualizations, coupled with a textual summary of total time and productivity percentages, offer users a clear, digestible overview of their online behavior.
 
+
 * In summary, this Chrome Extension provides a comprehensive solution for web activity tracking and productivity analytics. By combining background data collection, user-friendly pop-up summaries, and detailed visual reports powered by Chart.js, it empowers users to gain deeper insights into their digital habits and make informed decisions to enhance their online productivity.
 
  
+OUTPUT:
+
+<img width="1918" height="1093" alt="Image" src="https://github.com/user-attachments/assets/2b9094bf-b191-4136-8e00-e40e5edac390" />
+
+<img width="1900" height="1031" alt="Image" src="https://github.com/user-attachments/assets/13da3d62-64e0-4cb9-af89-89ff5a22ba9f" />
